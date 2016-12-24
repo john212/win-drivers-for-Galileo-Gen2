@@ -39,7 +39,7 @@ someone to get the files the same way I did from Intel's Galileo support site.
 
 The two "iot_devkit" files are the driver files for the "CDC" serial device (usin SD card Yocto) and the two "linux-cdc-acm" files are the driver files for the "Gadget 2.4" serial device (flash based Yocto). 
 
-**************Some More Backgrounf Information*********************
+**************Some More Background Information*********************
 
 Reference Intel Instructions:
 https://software.intel.com/en-us/get-started-galileo-windows-step1
