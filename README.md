@@ -37,6 +37,8 @@ the frustration I had trying to make the Galileo Gen2 card work and provide enou
 
 someone to get the files the same way I did from Intel's Galileo support site.
 
+The two "iot_devkit" files are the driver files for the "CDC" serial device (usin SD card Yocto) and the two "linux-cdc-acm" files are the driver files for the "Gadget 2.4" serial device (flash based Yocto). 
+
 **************Some More Backgrounf Information*********************
 
 Reference Intel Instructions:
